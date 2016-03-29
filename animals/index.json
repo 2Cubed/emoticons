@@ -18,6 +18,7 @@
         ":woof": "dog",
         ":hamster": "hamster",
         ":sloth": "sloth",
-        ":stanley": "stanley"
+        ":stanley": "stanley",
+        ":racoon": "stanley"
     }
 }
